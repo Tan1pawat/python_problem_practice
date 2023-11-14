@@ -1,4 +1,4 @@
-#my_solution
+# my_solution
 
 # def DNA_strand(dna):
 #     ans=[]
@@ -13,7 +13,7 @@
 #             ans.append('C')
 #     return ''.join(ans)
 
-#better solution
+# better solution
 
 pairs = {'A':'T','T':'A','C':'G','G':'C'}
 def DNA_strand(dna):
